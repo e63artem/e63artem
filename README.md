@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi! My name is Artem
 
-<!--
-**e63artem/e63artem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a novice DevOps engineer
+
+- Now I work for the Astra group of companies href="https://astragroup.ru"
+- The company develops various types of software - OS, Cloud, IaC service, Virtualization and much more
+  
+---
+
+### 🤝 Social networks:
+
+  <div id="badges">
+    <a href="https://t.me/e63artem" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
+
+---
+
+### 💻 Technologies:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
+
+</div>
+
+</table>
