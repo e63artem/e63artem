@@ -6,7 +6,7 @@
 
 I am a novice DevOps engineer
 
-- Now I work for the Astra group of companies <a href="https://astragroup.ru"></a>
+- Now I work for the Astra group of companies <a href="https://astragroup.ru" target="_blank"></a>
 - The company develops various types of software - OS, Cloud, IaC service, Virtualization and much more
   
 ---
