@@ -17,7 +17,7 @@ I am a novice DevOps engineer
     <a href="https://t.me/e63artem" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="mailto:evseev4artem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="40" height="40" alt="gmail" /></a>
+    <a href="mailto:evseev4artem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="80" height="40" alt="gmail" /></a>
   </div>
 
 ---
