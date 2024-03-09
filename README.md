@@ -22,7 +22,9 @@
 
 ---
 
-### Technologies:
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Exa&weight=200&size=66&duration=1&pause=1&color=EFEFEF&background=1B1B1B00&vCenter=true&repeat=false&width=2641&height=120&lines=Technologies" alt="Typing SVG" />
+</h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
