@@ -4,14 +4,18 @@
 
 ---
 
-### About me:
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Exa&weight=200&size=66&duration=1&pause=1&color=EFEFEF&background=1B1B1B00&vCenter=true&repeat=false&width=2641&height=120&lines=About+me" alt="Typing SVG" />
+</h3>
 
 - Now I work for the Astra group of companies <a href="https://astragroup.ru">Astra</a>
 - The company develops various types of software - OS, Cloud, IaC service, Virtualization and much more
   
 ---
 
-### Social networks:
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Exa&weight=200&size=66&duration=1&pause=1&color=EFEFEF&background=1B1B1B00&vCenter=true&repeat=false&width=2641&height=120&lines=Social+networks" alt="Typing SVG" />
+</h3>
 
 <a href="https://t.me/e63artem">![Telegram](https://img.shields.io/badge/Telegram-1B1B1B?style=for-the-badge&logo=telegram&logoColor=EFEFEF)</a>
 <a href="mailto:evseev4artem@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-1B1B1B?style=for-the-badge&logo=gmail&logoColor=EFEFEF)</a>
