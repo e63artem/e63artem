@@ -1,15 +1,10 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Exa&weight=200&size=86&duration=4000&pause=2000&color=EFEFEF&background=1B1B1B00&center=false&vCenter=true&width=2641&height=120&lines=Hello;My+name+is+Artem;i'm+a+junior+DevOps+engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Exa&weight=200&size=86&duration=4000&pause=1000&color=EFEFEF&background=1B1B1B00&center=false&vCenter=true&width=2641&height=120&lines=Hello;My+name+is+Artem;i'm+a+novice+DevOps+engineer" alt="Typing SVG" />
 </h2>
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Exa&weight=200&size=66&duration=1&pause=1&color=EFEFEF&background=1B1B1B00&vCenter=true&repeat=false&width=2641&height=120&lines=skills+and+tools" alt="Typing SVG" />
-</h3>
 
 ---
 
 ### About me:
-
-I am a novice DevOps engineer
 
 - Now I work for the Astra group of companies <a href="https://astragroup.ru">Astra</a>
 - The company develops various types of software - OS, Cloud, IaC service, Virtualization and much more
@@ -18,10 +13,8 @@ I am a novice DevOps engineer
 
 ### Social networks:
 
-  <div id="badges">
-    <a href="https://t.me/e63artem" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a>
-    <a href="mailto:evseev4artem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="50" height="30" alt="gmail" /></a>
-  </div>
+<a href="https://t.me/e63artem">![Telegram](https://img.shields.io/badge/Telegram-1B1B1B?style=for-the-badge&logo=telegram&logoColor=EFEFEF)</a>
+<a href="mailto:evseev4artem@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-1B1B1B?style=for-the-badge&logo=gmail&logoColor=EFEFEF)</a>
 
 ---
 
