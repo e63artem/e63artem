@@ -1,4 +1,9 @@
-# Hi! My name is Artem
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Exa&weight=200&size=86&duration=4000&pause=2000&color=EFEFEF&background=1B1B1B00&center=false&vCenter=true&width=2641&height=120&lines=Hello;My+name+is+Artem;i'm+a+junior+DevOps+engineer" alt="Typing SVG" />
+</h2>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Exa&weight=200&size=66&duration=1&pause=1&color=EFEFEF&background=1B1B1B00&vCenter=true&repeat=false&width=2641&height=120&lines=skills+and+tools" alt="Typing SVG" />
+</h3>
 
 ---
 
