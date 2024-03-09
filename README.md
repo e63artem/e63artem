@@ -37,7 +37,7 @@ I am a novice DevOps engineer
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://sloopstash.com/assets/image/training/ansible/icon.svg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
-  <img src="https://e7.pngegg.com/pngimages/431/183/png-clipart-social-media-computer-icons-github-symbol-social-media-logo-monochrome.png" title="github" alt="github" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="github" alt="github" width="40" height="40"/>&nbsp
   
 </div>
 
