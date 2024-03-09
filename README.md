@@ -11,18 +11,19 @@ I am a novice DevOps engineer
   
 ---
 
-### 🤝 Social networks:
+### Social networks:
 
   <div id="badges">
     <a href="https://t.me/e63artem" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
+    <a> </a>
     <a href="mailto:evseev4artem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="80" height="40" alt="gmail" /></a>
   </div>
 
 ---
 
-### 💻 Technologies:
+### Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
